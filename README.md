@@ -7,7 +7,7 @@ This project aims to predict hospital resource demand and optimize resource allo
 ## Project Structure
 
 * **data:** Contains the raw and preprocessed data files.
-* **notebooks:** Includes Jupyter notebooks used for data analysis, model building, and optimization.
+* **resource_alloc_helium:** A Jupyter notebooks used for data analysis, model building, and optimization.
 * **src:** Holds the source code for data preprocessing, model training, and optimization algorithms.
 * **requirements.txt:** Lists the project dependencies.
 * **README.md:** This file.
