@@ -44,4 +44,4 @@ Contributions are welcome! Please feel free to open issues or pull requests.
 ## Contact
 
  Khalid Liman Yusuf
-kllimanyusuf@yahoo.com
+klimanyusuf@yahoo.com
