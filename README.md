@@ -39,7 +39,6 @@ The project provides insights into:
 
 Contributions are welcome! Please feel free to open issues or pull requests.
 
-
 ## Contact
 
  Khalid Liman Yusuf
