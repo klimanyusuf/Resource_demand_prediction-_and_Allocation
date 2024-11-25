@@ -11,8 +11,8 @@ from sklearn.metrics import mean_absolute_error
 # Load datasets (Caching the function to improve app performance)
 @st.cache_data
 def load_data():
-    patient_demo = pd.read_excel("Patient_Demo.xlsx")
-    patient_hospital_visit = pd.read_excel("Patient_Hospital_Visit.xlsx")
+    patient_demo = pd.read_excel("data/Patient_Demo.xlsx")
+    patient_hospital_visit = pd.read_excel("data/Patient_Hospital_Visit.xlsx")
     return patient_demo, patient_hospital_visit
 
 # Load and merge datasets
